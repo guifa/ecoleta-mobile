@@ -1,4 +1,5 @@
-Ecoleta Mobile
+Ecoleta Mobile, desenvolvido em React Native.
 ==============================
 
-Parte mobile do aplicativo Ecoleta em React Native, para ajudar na coleta de lixo.
+![](images/Ecoleta-Mobile.svg)
+![](images/Ecoleta-Mobile-Pesquisa.svg)
